@@ -1,0 +1,59 @@
+
+from typing import Any, Text, Dict, List
+from rasa_sdk import Action, Tracker
+from rasa_sdk.executor import CollectingDispatcher
+from rasa_sdk.events import SlotSet
+import requests,json
+import os
+
+base_url = "https://maps.googleapis.com/maps/api/place/"
+base_url_photos = "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference="
+class ActionSearchPlace(Action):
+    def name(self) -> Text:
+        return "action_search_place"
+    def run(self, dispatcher, tracker, domain):
+        url1 = "findplacefromtext/json?input="
+        url2 = "&inputtype=textquery&fields=photos,formatted_address,name,geometry,place_id&key="
+        entity = tracker.latest_message['entities']
+        entities = {}
+        for c in entity:
+            entities.__setitem__(c['entity'],c['value'])
+        try:
+            loc = entities['locality']
+        except:
+            loc = None
+        try:
+            city = entities['city']
+        except:
+            city = None    
+        SlotSet('locality',loc)
+        SlotSet('city',city)
+        if loc == None and city == None :
+            dispatcher.utter_message("Please tell me the location you want to search")
+            return []
+        if loc == None :
+            place = city
+        elif city == None:
+            place = loc
+        else:
+            place = loc +"%20"+ city
+        api_key = os.environ['API_KEY']
+        url = base_url + url1 + place + url2 + str(api_key)
+        response = requests.get(url)
+        x = response.json()
+        y = x['candidates']
+        dispatcher.utter_message("Searching..., Found :")
+        for c in y:
+            photo_ref = c['photos'][0]['photo_reference']
+            image = base_url_photos + photo_ref + "&key=" + str(api_key)
+            img = requests.get(image)
+            dispatcher.utter_message(template="utter_image", image=img.url)
+            dispatcher.utter_message(c['formatted_address'])
+        return []
+        
+class ActionSearchNearby(Action):
+    def name(self) -> Text:
+        return "action_search_nearby"
+    def run(self, dispatcher, tracker, domain):
+        dispatcher.utter_message("Hello")
+        return[]

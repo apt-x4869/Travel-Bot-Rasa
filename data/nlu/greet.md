@@ -1,0 +1,269 @@
+## intent:greet
+- hello there
+- Poke
+- Good day!
+- salutations my friend
+- How's it hanging?
+- Yo, what's up?
+- Hey you
+- Yo man, Hows it going.
+- hey now!
+- Hello, how are you?
+- Hola!
+- HI, how's it going?
+- Aloha!
+- Hey now!
+- hello
+- hi!
+- How are you?
+- Hi! How are you?
+- Hello, what you up to?
+- hiya
+- hi, how are you doing?
+- Hi, how's it going?
+- hello to you!
+- hey
+- what are you up do?
+- hey wassup
+- sup my friend!
+- Hello there!
+- Yo
+- hola!
+- Hey, whatcha up to?
+- sup!?
+- Hello to you!
+- how are you?
+- ola
+- Hi there, how're you doing?
+- hey you!
+- Hey!  What's going on in your world today?
+- howdy mate
+- Dude! how are you
+- Hi, lets get started
+- hey dude.
+- hey you
+- sup!
+- Hiya! How are you?
+- Hey, whats going on?
+- How are you today?
+- how's it going?
+- what's up?
+- Hey how are you?
+- Salutations!
+- halloo
+- What's going on?
+- Heya, how's it going?
+- Hey buddy
+- Hi!
+- hi how are you?
+- Greetings!
+- Yo, what's good?
+- good afternoon
+- How have you been today?
+- hey buddy
+- Sup!
+- whatcha doing
+- how's it hanging?
+- Sup!?
+- Greetings
+- Hey how's it going?
+- Greetings, ready to start the day?
+- Hey man
+- Hey, whatcha doing?
+- yo
+- hola
+- Hey you!
+- hihi
+- hello!
+- Hi, whatcha been up to?
+- Sam, how's it going?
+- Howdy!
+- hey there
+- hiya! how are you?
+- yo, what's up?
+- Good morning
+- How are you today
+- Greetings.
+- Hows it going?
+- hey man
+- What up?
+- Hello and how are you doing?
+- what's up
+- how are you today
+- heya how goes
+- hi
+- How are you doing today?
+- hey what's up?
+- hallo
+- hello are you there
+- Whats happening?
+- hallo mate
+- how are you on this fine day?
+- Hi how are you?
+- Hey
+- how are you
+- How's everything?
+- how is your day going so far?
+- greetings.
+- good morning
+- Good to see you, how have you been?
+- greetings!
+- hows it going?
+- Howdy there
+- G’day mate!
+- heyo
+- Hello!
+- aloha 'oe!
+- Hello! Hope your day is going well!
+- Yo yo yo
+- Greetings my friend, how are you?
+- good day!
+- choose
+- g'day mate!
+- How's it going?
+- how is it going?
+- how's everything?
+- Hey dude.
+- mornin
+- hello there!
+- hey how's it going?
+- Good morning!
+- helloo to you
+- Hi,nice to be speaking with you.
+- hi there
+- hey hey hey
+- SUP MY FRIEND!
+- How are you doing?
+- how goes it?
+- Hi, how are you?
+- hey-o!
+- Hi, are we ready to start?
+- Sup
+- ay, how are you?
+- How are ya doing?
+- Heyhey
+- What are you up to?
+- Hey, how's it going?
+- Welcome.
+- how are you doing today?
+- Hey there!
+- Hello there.
+- whats happening?
+- good morning!
+- Namasthe, How are you
+- Wake up
+- Great seeing you!
+- Are you there?
+- greetings my friend, how are you?
+- dude! how are you
+- salutations!
+- heya
+- Good morning. How are you?
+- How are you on this fine day?
+- Ay, how are you?
+- hi, how's it going?
+- What's up
+- wassup
+- Hi, can you help me with something?
+- Greetings Earthling.
+- Hey, something new?
+- howdy do?
+- namasthe, how are you
+- Hello, how would you like me to start?
+- Hey!
+- hey!
+- how are you doing?
+- great seeing you!
+- are you there?
+- what is happening?
+- Good evening!
+- Morning
+- begin
+- sup
+- Oh hello
+- What are you up do?
+- Good afternoon
+- howdy!
+- Hi there!
+- hey there!
+- how have you been today?
+- what up?
+- hello, what you up to?
+- whats good stranger!
+- aloha to you!
+- yo, what's good?
+- Yo what's up
+- Hi, how are you doing today?
+- Hi, how are you doing?
+- hey what's happening
+- oh hello
+- how do?
+- Hey there
+- heyagood morning. how are you?
+- How is your doing going so far?
+- heey
+- what's going on?
+- Hiya
+- hi how are you
+- halloo you there
+- clearance
+- hiya what's happening
+- How goes it?
+- Salutations my friend
+- dudehello
+- what's happening with you?
+- Hey there, How are you?
+- good morning. how are you?
+- how are ya doing?
+- hi wassup
+- hey!  what's going on in your world today?
+- How'd there!
+- Good afternoon!
+- Hi. How are you?
+- yo man, hows it going.
+- Hi, How are you today?
+- start
+- Hey what's goin on?
+- Hello. How are you?
+- Hey There, Sup!
+- Hey-o!
+- greetings
+- hiya you there
+- hey, whatcha up to?
+- good evening!
+- hello, how are you?
+- hi How are you doing?
+- Hello. How are you today?
+- Hi
+- hi, whatcha been up to?
+- how do you do?
+- dude
+- HEY HOWS IT GOING
+- what are you up to?
+- hi there How are you doing?
+- bonjour
+- aloha!
+- yo yo yo
+- Hi, I was wondering if you could help me with something.
+- how are you doing
+- hey How are you doing?
+- helo
+- heeyHi!
+- really
+- good to see you, how have you been?
+- greetings earthling.
+- get started
+- welcome.
+- Hello
+- nope
+- let's get started
+- yo yo
+- hii
+- whats up?
+- hey hey
+- Bonjour
+- Bonjeur
+- hello buddy
+
+## intent:affirm
+- [Goa](state)

@@ -1,0 +1,25 @@
+## intent:pincode
+- pincode [400705](pincode)
+- [400703](pincode)
+- whats the city of pincode [211004](pincode)?
+- [211004](pincode)
+- whats the city of pincode [211004](pincode)
+- [211004](pincode) city?
+- [400705](pincode)
+- pincode of [Ranchi](city)
+- pincode of [Namkum](locality) [Ranchi](city)
+- pincode of [Adityapur](locality) [Jamshedpur](city)
+- pincode of [vashi](locality) [navi mumbai](city)
+- [vashi](locality) pincode
+- [adityapur](locality) pincode
+- [Namkum](locality) pincode
+- [Chembur](locality) pincode
+- [Vashi](locality) pincode
+- [Adityapur](locality) pincode
+- [pincode](pincode) of [Vashi](locality) Navi [Mumbai](city)
+- pincode of [kailash nagar](locality) [Kanpur](city)
+- pincode of [kailashnagar](locality) [Kanpur](city)
+- pincode of [harharguttu](locality) [jamshedpur](city)
+- pincode of [Kadma](locality) [Jamshedpur](city)
+- pincode of [vanarasi](city)
+- pincode of [adityapur](locality) jharkhand

@@ -1,0 +1,96 @@
+intents:
+- search_flights
+- search_nearby
+- route
+- action_locate
+- locate
+- search_hotels
+- search_place
+- affirm
+- weather
+- greet
+- current_time
+- mood_great
+- stop
+- goodbye
+- deny
+- mood_unhappy
+- bot_challenge
+- time
+- pincode
+- place_info
+- place_reach
+- best_time_info
+- whereami
+entities:
+- besttimeinfo
+- city
+- daddr
+- date
+- keyword
+- locality
+- pincode
+- placeinfo
+- reachinfo
+- saddr
+- searchplace
+- state
+- sys_interval
+- sys_time
+- unit
+- weather
+slots:
+  city:
+    type: text
+  daddr:
+    type: text
+  date:
+    type: text
+  locality:
+    type: text
+  pincode:
+    type: text
+  saddr:
+    type: text
+  unit:
+    type: text
+templates:
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_goodbye:
+  - text: Bye
+  utter_greet:
+  - text: Hey! How are you?
+  utter_happy:
+  - text: Great, carry on!
+  utter_iamabot:
+  - text: I am a bot, powered by Rasa.
+  utter_image:
+  - text: 'image: {image}'
+  utter_whereami:
+  - text: https://www.google.com/maps?q=My+Location
+actions:
+- action_best_time_info
+- action_city_pincode
+- action_locate
+- action_pincode
+- action_place_info
+- action_place_reach_info
+- action_route
+- action_search_flights
+- action_search_hotels
+- action_search_nearby
+- action_search_place
+- action_time
+- action_weather
+- utter_cheer_up
+- utter_did_that_help
+- utter_goodbye
+- utter_greet
+- utter_happy
+- utter_iamabot
+- utter_image
+- utter_whereami

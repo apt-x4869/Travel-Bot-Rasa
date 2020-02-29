@@ -1,0 +1,30 @@
+## intent:place_reach
+- [how to reach](reachinfo) [delhi](city)
+- [how to go](reachinfo) [mumbai](city)
+- [how to reach](reachinfo) [Jamshedpur](city)
+- [how to travel](reachinfo) [Allahabad](city)
+- [route to](reachinfo) [Lucknow](city)
+- [route to](reachinfo) [Allahabad](city)
+- [Allahabad](city) [reach info](reachinfo)
+- [Lucknow](city) [reach info](reachinfo)
+- [how to reach](reachinfo) [Jamshedpur](city) info
+- [how to reach](reachinfo) [Lucknow](city) info
+- [how to travel](reachinfo) [Allahabad](city) info
+- [how to go](reachinfo) [mumbai](city) info
+- [route info](reachinfo) [delhi](city)
+- [enroute](reachinfo) [Kolkata](city)
+- [enroute](reachinfo) [Mumbai](city)
+- [enroute](reachinfo) info [Kolkata](city)
+- [enroute](reachinfo) info [Mumbai](city)
+- [enroute](reachinfo) [Kolkata](city) info
+- [enroute](reachinfo) [Mumbai](city) info
+- [route to](reachinfo) [Lucknow](city) info
+- [route to](reachinfo) [Allahabad](city) info
+- [reach](reachinfo) [Allahabad](city) info
+- [jamshedpur](city)
+- [reach info](reachinfo)
+- [reach info](reachinfo) [Allahabad](city)
+- [route](reachinfo) [Mumbai](city)
+- [how to reach](reachinfo) [Katra](city)
+- [route](reachinfo) [namkum,ranchi](city) to [jamshedpur](daddr)
+- [How to reach](reachinfo) [Aligarh](city)
